@@ -61,4 +61,4 @@ const breeds = [
   },
 ]
 
-module.exports = breeds
+export default breeds
